@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Diksha</h1>
-<h3 align="center">CS Student | Backend + AI Projects | Full Stack Developer</h3>
+<h3 align="center">CS-AI Student | Backend + AI Projects | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;AI+Project+Builder;Spring+Boot+%2B+React;DSA+Learner" />
@@ -10,11 +10,11 @@
 
 # 🚀 About Me
 
-- 🎓 Computer Science student
-- 💻 Building backend + AI-based projects
-- 🌱 Currently learning **Spring Boot, React, SQL, and System Design**
-- ⚡ Interested in automation systems and AI assistants
-- 🎯 Goal: Become a strong software engineer through real-world projects
+- 🎓 Computer Science Artificial Intelligence student
+- 💻 Frontend-focused developer passionate about clean UI and user experience
+- ⚛️ Building projects using React, JavaScript, HTML, CSS, and APIs
+- 🌱 Currently learning backend development and scalable systems
+- 🎯 Goal: Build real-world applications with strong design + functionality
 
 ---
 
@@ -41,16 +41,23 @@ AI-assisted clinic management system with queue tracking and doctor recommendati
 
 ---
 
-## 🤖 Mini Jarvis Assistant
-Personal AI assistant project focused on automation and productivity.
+# 🎓 Smart Placement Management System
+AI-assisted placement management platform that streamlines campus recruitment processes for students, r
 
-**Features**
-- Voice commands
-- Task automation
-- AI responses
-- File handling
 
----
+**Tech Stack:** Java, Spring Boot, MySQL, JWT Authentication
+
+## ✨ Features
+- Student registration & profile management
+- Company job posting system
+- Eligibility filtering based on CGPA and skills
+- Application tracking dashboard
+- Admin placement management panel
+- Resume upload system
+- Secure authentication & authorization
+- AI-based resume-job matching *(future scope)*
+
+--
 
 ## 📊 Data Dashboard Project
 Interactive dashboard for analytics and reporting.
