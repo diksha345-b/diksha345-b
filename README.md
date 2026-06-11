@@ -1,27 +1,27 @@
-
 <h1 align="center">Hi 👋, I'm Diksha</h1>
-<h3 align="center">CS-AI Student | Backend + AI Projects | Full Stack Developer</h3>
+<h3 align="center">Frontend Developer | React Projects | UI Engineering | Exploring Full Stack Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;AI+Project+Builder;Spring+Boot+%2B+React;DSA+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=React+Developer;Frontend+Engineer;UI%2FUX+Enthusiast;Full+Stack+Learner" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Computer Science Artificial Intelligence student
-- 💻 Frontend-focused developer passionate about clean UI and user experience
-- ⚛️ Building projects using React, JavaScript, HTML, CSS, and APIs
-- 🌱 Currently learning backend development and scalable systems
-- 🎯 Goal: Build real-world applications with strong design + functionality
+* 🎓 Computer Science (AI) student
+* 💻 Frontend-focused developer passionate about building clean, responsive, and user-friendly interfaces
+* ⚛️ Creating projects using React, JavaScript, HTML, CSS, Tailwind CSS, and APIs
+* 🎨 Interested in UI/UX design and transforming ideas into interactive web experiences
+* 🌱 Currently exploring backend development and full-stack application architecture
+* 🎯 Goal: Build impactful real-world applications that combine great design with practical functionality
 
 ---
 
 # 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,python,mysql,postgresql,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,figma,python,git,github,vscode" />
 </p>
 
 ---
@@ -29,82 +29,65 @@
 # 📌 Featured Projects
 
 ## 🏥 Clinic Queue Token System
-AI-assisted clinic management system with queue tracking and doctor recommendation.
 
-**Tech Stack:** Spring Boot, React, MySQL
+Smart clinic management platform that simplifies patient flow and reduces waiting time through digital token management.
+
+**Tech Stack:** React, Spring Boot, MySQL
 
 ### Features
-- Token generation system
-- Doctor queue management
-- Admin dashboard
-- AI symptom checker
+
+* Digital token generation
+* Doctor queue management
+* Admin dashboard
+* Appointment tracking
+* Responsive user interface
 
 ---
 
-# 🎓 Smart Placement Management System
-AI-assisted placement management platform that streamlines campus recruitment processes for students, r
+## 🎓 Smart Placement Management System
 
+Placement platform that streamlines campus recruitment for students, recruiters, and administrators.
 
-**Tech Stack:** Java, Spring Boot, MySQL, JWT Authentication
+**Tech Stack:** React, Java, Spring Boot, MySQL, JWT Authentication
 
-## ✨ Features
-- Student registration & profile management
-- Company job posting system
-- Eligibility filtering based on CGPA and skills
-- Application tracking dashboard
-- Admin placement management panel
-- Resume upload system
-- Secure authentication & authorization
-- AI-based resume-job matching *(future scope)*
+### Features
 
---
-
-## 📊 Data Dashboard Project
-Interactive dashboard for analytics and reporting.
-
-**Tech Stack:** React, Chart.js, APIs
+* Student profile management
+* Company job postings
+* Eligibility filtering
+* Application tracking dashboard
+* Resume upload system
+* Secure authentication
+* AI-based resume-job matching (future scope)
 
 ---
 
-# 📈 GitHub Stats
+## 📊 Analytics Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diksha345-b&show_icons=true&theme=tokyonight" />
-</p>
+Interactive dashboard for visualizing data and tracking performance metrics.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diksha345-b&theme=tokyonight" />
-</p>
+**Tech Stack:** React, Chart.js, REST APIs
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha345-b&layout=compact&theme=tokyonight" />
-</p>
+### Features
 
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/diksha-bajpai-061b35365">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:gudiyabajpai@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
+* Interactive charts
+* Data visualization
+* Responsive layout
+* Dynamic API integration
+* Real-time insights
 
 ---
 
-# 🧠 Current Goals
+# 🧠 Current Focus
 
-- Solve DSA consistently
-- Build strong backend systems
-- Deploy real-world applications
-- Learn scalable architecture
-- Contribute to open source
+* Advanced React development
+* UI/UX improvement
+* DSA practice
+* Full-stack application development
+* Open-source contributions
 
 ---
 
 # ⚡ Fun Fact
 
-I spend more time debugging than sleeping. Modern software engineering. Very healthy civilization.
+Most bugs disappear after hours of debugging, only to reveal they were caused by a missing semicolon, typo, or one misplaced line. Software engineering remains an impressive monument to human confidence.
